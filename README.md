@@ -7,7 +7,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently in the UST Health Proof Training.
 - 📚 I’m currently learning Java basics to advance.
 
-⭐️ From [hazemessam](https://github.com/Pravinkumar-Raja)
+⭐️ From [Pravinkumar-Raja](https://github.com/Pravinkumar-Raja)
 <!--
 **Pravinkumar-Raja/Pravinkumar-Raja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
