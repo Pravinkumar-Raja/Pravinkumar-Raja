@@ -12,7 +12,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Pravinkumar-Raja's GitHub Stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Pravinkumar-Raja's GitHub Stats" />    <img src="https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=true" alt="Pravinkumar-Raja's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Pravinkumar-Raja's GitHub Stats" /> &nbsp &nbsp&nbsp&nbsp <img src="https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=true" alt="Pravinkumar-Raja's GitHub Stats" />
 
 ⭐️ From [Pravinkumar-Raja](https://github.com/Pravinkumar-Raja)
 <!--
