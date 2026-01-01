@@ -1,75 +1,23 @@
-# 👋 Hi, I'm Pravinkumar-Raja
+## Hi there 👋, This is Pravinkumar R
 
-**Software Developer | Full Stack Enthusiast | Spring Boot & React**
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I build real-world applications with clean code and modern tech.  
-I enjoy turning ideas into working solutions that make life easier.
+I'm a B.Tech Information Technology Graduate, who is passionate about writing code and solving problems.
 
----
+- 🔭 I’m currently in the UST Health Proof Training.
+- 📚 I’m currently learning Java basics to advance.
 
-## 📊 GitHub Stats
 
-<div align="center">
+## My Profile Overview
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Pravinkumar-Raja's GitHub Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Pravinkumar-Raja's GitHub Stats" /> &nbsp &nbsp&nbsp&nbsp <img src="https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=true" alt="Pravinkumar-Raja's GitHub Stats" />
 
-[![Pravinkumar-Raja GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravinkumar-Raja&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Pravinkumar-Raja)
+⭐️ From [Pravinkumar-Raja](https://github.com/Pravinkumar-Raja)
+<!--
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumar-Raja&layout=compact&theme=tokyonight)](https://github.com/Pravinkumar-Raja)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pravinkumar-Raja&theme=tokyonight)](https://github.com/Pravinkumar-Raja)
+**Pravinkumar-Raja/Pravinkumar-Raja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-</div>
-
----
-
-## 🚀 Pinned Projects
-
-<div align="center">
-
-<!-- Auto-generated repo cards -->
-<a href="https://github.com/Pravinkumar-Raja/InsureGo" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravinkumar-Raja&repo=InsureGo&theme=tokyonight" />
-</a>
-<a href="https://github.com/Pravinkumar-Raja/Appointment-Scheduling" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravinkumar-Raja&repo=Appointment-Scheduling&theme=tokyonight" />
-</a>
-<a href="https://github.com/Pravinkumar-Raja/SpringProjects" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravinkumar-Raja&repo=SpringProjects&theme=tokyonight" />
-</a>
-
-</div>
-
----
-
-## 🛠 Skills & Tools
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🔗 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/Pravinkumar-Raja">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Pravinkumar--Raja-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/pravinkumar-raja/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pravinkumar%20Raja-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
-  </a>
-</div>
-
----
-
-✨ *Thanks for visiting my profile!*  
+Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
