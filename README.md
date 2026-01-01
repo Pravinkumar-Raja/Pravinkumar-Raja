@@ -14,8 +14,8 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, solvin
 
 <div align="center">
 
-<!-- Working overall stats -->
-[![Pravinkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pravinkumar-Raja)](https://github.com/anuraghazra/github-readme-stats)
+### My GitHub Stats
+![Pravinkumar's GitHub Stats](https://github-readme-stats-jxua5gbas-pravinkumar-rs-projects.vercel.app/api?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 **Top Languages**
 ![Top Languages](https://gitmystat.vercel.app/api/top-langs?username=Pravinkumar-Raja&theme=dark)
