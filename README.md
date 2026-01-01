@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a B.Tech Information Technology Graduate passionate about coding, solving problems, and building real-world applications.<br><br>🔭 I’m currently in UST Health Proof Training<br>📚 I’m learning Java from basics to advanced<br>💻 I enjoy working on Spring Boot, React, and Full-Stack projects
-
+<img width="35%" align="right" alt="Coding GIF" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/r-pravinkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pravinkumarrit@gmail.com) 
