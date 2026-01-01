@@ -12,7 +12,6 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, proble
 
 ## 📊 GitHub Stats
 
-## 📊 My GitHub Stats
 
 <div align="center">
 
