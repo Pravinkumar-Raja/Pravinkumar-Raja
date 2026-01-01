@@ -14,9 +14,9 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, solvin
 
 <div align="center">
 
-![Pravinkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Pravinkumar's GitHub Stats](https://github-readme-stats-2rbrdfdoj-pravinkumar-rs-projects.vercel.app/api?username=Pravinkumar-Raja&theme=dark&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumar-Raja&theme=dark&layout=compact&langs_count=10&hide_border=false)
+![Top Languages](https://github-readme-stats-2rbrdfdoj-pravinkumar-rs-projects.vercel.app/api/top-langs/?username=Pravinkumar-Raja&theme=dark&layout=compact)
 
 ![Streak Stats](https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=false)
 
