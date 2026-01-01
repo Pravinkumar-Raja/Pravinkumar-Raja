@@ -14,14 +14,17 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, solvin
 
 <div align="center">
 
-![Pravinkumar's GitHub Stats](./stats.svg)
+<!-- Working overall stats -->
+![GitHub Stats](https://gitmystat.vercel.app/api?username=Pravinkumar-Raja&theme=dark)
 
-### Contribution Streak
+**Top Languages**
+![Top Languages](https://gitmystat.vercel.app/api/top-langs?username=Pravinkumar-Raja&theme=dark)
+
+**Contribution Streak**
 ![Streak Stats](https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=false)
 
 </div>
 
----
 
 ## 💻 Skills & Technologies
 
