@@ -2,32 +2,31 @@
 
 <img width="35%" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I’m a **B.Tech Information Technology graduate** who is passionate about **backend development, problem-solving, and building real-world applications**.
+I’m a **B.Tech Information Technology graduate** passionate about **backend development and solving real-world problems**.
 
-- 🔭 Currently undergoing **UST Health Proof Training**
-- 🌱 Learning **Java, Spring Boot, and REST APIs**
-- 🏥 Interested in **Healthcare Domain Projects**
+- 🔭 Currently in **UST Health Proof Training**
+- 🌱 Learning **Java, Spring Boot & REST APIs**
+- 🏥 Interested in **Healthcare Domain Applications**
 - 💻 Exploring **Full Stack Development**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Backend**
+**Backend**
 - Java
 - Spring Boot
-- RESTful APIs
-- Hibernate / JPA (Learning)
+- REST APIs
+- Hibernate / JPA
 
-**Databases**
+**Database**
 - MySQL
 
 **Frontend (Basics)**
-- HTML
-- CSS
-- React (Beginner)
+- HTML, CSS
+- React
 
-**Tools & Platforms**
+**Tools**
 - Git & GitHub
 - Postman
 - IntelliJ IDEA
@@ -35,47 +34,47 @@ I’m a **B.Tech Information Technology graduate** who is passionate about **bac
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
 
-- 🏥 **Healthcare Appointment Management System**  
-  Spring Boot based backend for managing patients, doctors, and appointments.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pravinkumar-Raja&theme=github_dark" />
+</p>
 
-- 🔐 **JWT Authentication Service**  
-  Secure login and role-based access using Spring Security and JWT.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pravinkumar-Raja&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pravinkumar-Raja&theme=github_dark" />
+</p>
 
-- 📊 **Patient Dashboard (React)**  
-  Frontend dashboard to manage insurance details, renewals, and appointments.
-
-*(More projects coming soon 🚀)*
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pravinkumar-Raja&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pravinkumar-Raja&theme=github_dark&utcOffset=5.5" />
+</p>
 
 ---
 
-## 📊 GitHub Overview
+## 📌 Featured Projects
 
-> _GitHub stats are temporarily removed to avoid downtime issues.  
-They will be re-enabled using a self-hosted setup._
+- 🏥 **Healthcare Appointment Management System**  
+  Spring Boot backend for managing patients, doctors, and appointments.
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=Pravinkumar-Raja&show_icons=true&theme=dark&hide_border=true" />
+- 🔐 **JWT Authentication Service**  
+  Secure authentication with Spring Security & JWT.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumar-Raja&layout=compact&theme=dark&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=true" />
--->
+- 📊 **Patient Dashboard**  
+  React-based dashboard for insurance and appointment tracking.
 
 ---
 
 ## 🎯 Career Goals
 
-- Become a **Java / Spring Boot Backend Developer**
-- Build **scalable healthcare applications**
-- Contribute to **real-world problem solving through technology**
+- Java / Spring Boot Backend Developer
+- Healthcare Software Engineer
+- Building scalable, secure applications
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: [Pravinkumar-Raja](https://github.com/Pravinkumar-Raja)
-- 📧 Email: *(add if you want)*
+- GitHub: [Pravinkumar-Raja](https://github.com/Pravinkumar-Raja)
 
-⭐️ _Thanks for visiting my profile!_
+⭐️ Thanks for visiting my profile!
