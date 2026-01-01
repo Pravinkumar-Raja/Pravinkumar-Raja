@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Coding GIF" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a **B.Tech Information Technology Graduate** passionate about coding, problem-solving, and building real-world applications.
+I'm a **B.Tech Information Technology Graduate** passionate about coding, solving problems, and building real-world applications.
 
 - 🔭 I’m currently in **UST Health Proof Training**
 - 📚 I’m learning **Java** from basics to advanced
@@ -10,22 +10,16 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, proble
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 My GitHub Stats
 
 <div align="center">
 
-<!-- Main Stats using a working alternative -->
-![GitHub Stats](https://gitmystat.vercel.app/api?username=Pravinkumar-Raja&theme=dark)
+![Pravinkumar's GitHub Stats](./stats.svg)
 
-<!-- Top Languages using the alternative service -->
-![Top Languages](https://gitmystat.vercel.app/api/top-langs?username=Pravinkumar-Raja&theme=dark)
-
-<!-- Contribution Streak (this still pulls from demolab service) -->
+### Contribution Streak
 ![Streak Stats](https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=false)
 
 </div>
-
 
 ---
 
@@ -33,13 +27,13 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, proble
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
 
