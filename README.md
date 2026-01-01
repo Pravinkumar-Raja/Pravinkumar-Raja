@@ -14,7 +14,6 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, solvin
 
 <div align="center">
 
-### My GitHub Stats
 ![Pravinkumar's GitHub Stats](https://github-readme-stats-5whxhdm1h-pravinkumar-rs-projects.vercel.app/api?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 **Top Languages**
