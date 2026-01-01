@@ -48,8 +48,8 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, solvin
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pravinkumar--Raja-black?style=for-the-badge&logo=github)](https://github.com/Pravinkumar-Raja)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pravinkumar%20Raja-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pravinkumar-raja/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pravinkumar%20Raja-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/r-pravinkumar)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pravinkumarrit@gmail.com)
 
 </div>
 
