@@ -12,18 +12,21 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, proble
 
 ## 📊 GitHub Stats
 
+## 📊 My GitHub Stats
+
 <div align="center">
 
-### My GitHub Stats
-![Pravinkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravinkumar-Raja&theme=dark&show_icons=true&count_private=true)
+<!-- Main Stats using a working alternative -->
+![GitHub Stats](https://gitmystat.vercel.app/api?username=Pravinkumar-Raja&theme=dark)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumar-Raja&theme=dark&layout=compact)
+<!-- Top Languages using the alternative service -->
+![Top Languages](https://gitmystat.vercel.app/api/top-langs?username=Pravinkumar-Raja&theme=dark)
 
-### Contribution Streak
+<!-- Contribution Streak (this still pulls from demolab service) -->
 ![Streak Stats](https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=false)
 
 </div>
+
 
 ---
 
