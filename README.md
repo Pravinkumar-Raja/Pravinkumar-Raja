@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I’m a **B.Tech Information Technology graduate** passionate about **Java backend development and healthcare applications**.
+I’m a **B.Tech IT graduate** passionate about **Java backend development and healthcare applications**.
 
 - 🔭 Currently in **UST Health Proof Training**
 - 🌱 Learning **Java, Spring Boot & Microservices**
@@ -23,11 +23,11 @@ I’m a **B.Tech Information Technology graduate** passionate about **Java backe
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-six-kappa-96.vercel.app/api?username=Pravinkumar-Raja&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-six-kohl-36.vercel.app/api?username=Pravinkumar-Raja&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-six-kappa-96.vercel.app/api/top-langs/?username=Pravinkumar-Raja&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-six-kohl-36.vercel.app/api/top-langs/?username=Pravinkumar-Raja&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -38,21 +38,16 @@ I’m a **B.Tech Information Technology graduate** passionate about **Java backe
 
 ## 📌 Featured Projects
 
-- 🏥 **Healthcare Appointment Management System**  
-  Spring Boot backend with patient, doctor, and appointment modules.
-
-- 🔐 **JWT Authentication Service**  
-  Secure role-based access using Spring Security & JWT.
-
-- 📊 **Patient Dashboard**  
-  React frontend for insurance and appointment tracking.
+- 🏥 **Healthcare Appointment Management System** – Spring Boot backend  
+- 🔐 **JWT Authentication Service** – Secure role-based access  
+- 📊 **Patient Dashboard** – React frontend for insurance & appointments
 
 ---
 
 ## 🎯 Career Goals
 
-- Java / Spring Boot Backend Developer
-- Healthcare Software Engineer
+- Java / Spring Boot Backend Developer  
+- Healthcare Software Engineer  
 - Building scalable, secure systems
 
 ---
