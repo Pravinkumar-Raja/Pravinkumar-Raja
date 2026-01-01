@@ -1,59 +1,72 @@
-## Hi there 👋, This is Pravinkumar R
+<div align="center">
+  <h1>Hi 👋, I'm Pravinkumar-Raja</h1>
+  <h3>Software Developer | Frontend & Backend Enthusiast | Spring Boot & React Developer</h3>
 
-<img width="35%" align="right" alt="Coding" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-I’m a **B.Tech IT graduate** passionate about **Java backend development and healthcare applications**.
-
-- 🔭 Currently in **UST Health Proof Training**
-- 🌱 Learning **Java, Spring Boot & Microservices**
-- 🏥 Focused on **Healthcare Domain Projects**
-- 💻 Backend-first developer mindset
-
----
-
-## 🛠️ Tech Stack
-
-- **Backend:** Java, Spring Boot, REST APIs, JPA/Hibernate
-- **Database:** MySQL
-- **Frontend:** HTML, CSS, React (Basics)
-- **Tools:** Git, GitHub, Postman, IntelliJ, VS Code
+  <p align="center">
+    <a href="https://github.com/Pravinkumar-Raja">
+      <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Pravinkumar-Raja?label=Followers&style=social">
+    </a>
+    <a href="https://www.linkedin.com/in/pravinkumar-raja/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pravinkumar%20Raja-blue?style=flat-square&logo=linkedin">
+    </a>
+    <a href="mailto:youremail@example.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail">
+    </a>
+  </p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-six-kohl-36.vercel.app/api?username=Pravinkumar-Raja&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
-</p>
+<div align="center">
+  
+[![Pravinkumar-Raja's GitHub Stats](https://github-readme-stats-2rbrdfdoj-pravinkumar-rs-projects.vercel.app/api?username=Pravinkumar-Raja&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Pravinkumar-Raja)
 
-<p align="center">
-  <img src="https://github-readme-stats-six-kohl-36.vercel.app/api/top-langs/?username=Pravinkumar-Raja&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
-</p>
+<br />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=true" />
-</p>
+[![Top Languages](https://github-readme-stats-2rbrdfdoj-pravinkumar-rs-projects.vercel.app/api/top-langs/?username=Pravinkumar-Raja&layout=compact&langs_count=8&theme=radical)](https://github.com/Pravinkumar-Raja)
 
----
+<br />
 
-## 📌 Featured Projects
+[![WakaTime Stats](https://github-readme-stats-2rbrdfdoj-pravinkumar-rs-projects.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
 
-- 🏥 **Healthcare Appointment Management System** – Spring Boot backend  
-- 🔐 **JWT Authentication Service** – Secure role-based access  
-- 📊 **Patient Dashboard** – React frontend for insurance & appointments
+</div>
 
 ---
 
-## 🎯 Career Goals
+## 🛠 Skills
 
-- Java / Spring Boot Backend Developer  
-- Healthcare Software Engineer  
-- Building scalable, secure systems
+- **Backend:** Spring Boot, Node.js, Express.js  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, Postman, Vercel, Docker  
 
 ---
 
-## 📫 Connect With Me
+## 📂 Projects
 
-- GitHub: [Pravinkumar-Raja](https://github.com/Pravinkumar-Raja)
+1. **AI-based Robbery Detection System**  
+   Real-time CCTV robbery detection using YOLOv8, ByteTrack, and CNN-based modules for head cover & mask detection.
 
-⭐️ Thanks for visiting my profile!
+2. **AI Resume Builder & Career Advisor**  
+   Built with React.js frontend + GPT-4 backend for resume improvement, keyword suggestions, and career advice.
+
+3. **Navigation System for Blind People**  
+   ML & CV-based navigation system with sensors for obstacle detection.
+
+*(Add more projects here as you want)*
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pravinkumar%20Raja-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pravinkumar-raja/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Pravinkumar-Raja-black?style=flat-square&logo=github)](https://github.com/Pravinkumar-Raja)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat-square&logo=gmail)](mailto:youremail@example.com)
+
+---
+
+<div align="center">
+  <p>✨ Thanks for visiting my profile! ✨</p>
+</div>
