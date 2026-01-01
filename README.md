@@ -14,15 +14,10 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, solvin
 
 <div align="center">
 
-<!-- Main Stats -->
-### My GitHub Stats
-![Pravinkumar's GitHub Stats](https://github-readme-stats-2rbrdfdoj-pravinkumar-rs-projects.vercel.app/api?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Pravinkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravinkumar-Raja&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
-### Top Languages
-![Top Languages](https://github-readme-stats-2rbrdfdoj-pravinkumar-rs-projects.vercel.app/api/top-langs/?username=Pravinkumar-Raja&theme=dark&layout=compact&hide_border=false&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravinkumar-Raja&theme=dark&layout=compact&langs_count=10&hide_border=false)
 
-
-### Contribution Streak
 ![Streak Stats](https://streak-stats.demolab.com?user=Pravinkumar-Raja&theme=dark&hide_border=false)
 
 </div>
@@ -31,30 +26,25 @@ I'm a **B.Tech Information Technology Graduate** passionate about coding, solvin
 
 ## 💻 Skills & Technologies
 
-Here’s a dynamic summary of my top languages and frameworks (based on my GitHub repos):
-
-| Language | Proficiency |
-|----------|------------|
-| Java | ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) |
-| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| JavaScript | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| HTML5 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
-| CSS3 | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| React | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| Spring Boot | ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| MySQL | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-
+<div align="center">
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</div>
 
 ---
 
 ## 🔗 Connect with Me
 
 <div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-Pravinkumar--Raja-black?style=for-the-badge&logo=github)](https://github.com/Pravinkumar-Raja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pravinkumar%20Raja-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/r-pravinkumar)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pravinkumarrit@gmail.com)
-
 </div>
 
 ---
